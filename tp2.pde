@@ -1,5 +1,10 @@
 //https://youtu.be/B7v66Rm0PC0
 
+/*
+Veracierta Valera Fabiola José
+legajo: 91399/1
+*/
+
 //variables
 int cant = 10;
 int tam;
